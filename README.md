@@ -26,7 +26,7 @@ Currently, I'm diving deeper into **Vue.js** to master frontend development and 
 ## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilad0&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilad0&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilad0&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilad0&layout=compact&theme=tokyonight)
 
 ## 🌟 **How I Work**
