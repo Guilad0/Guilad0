@@ -16,18 +16,6 @@ Currently, I'm diving deeper into **Vue.js** to master frontend development and 
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/VersionControl-Git-orange?logo=git&logoColor=white)
 
-## 🌟 **How I Work**
-
-- 🎯 Focused on clean, functional design.
-- 🔧 Solving problems with scalable code.
-- 📖 Always learning new technologies to enhance my skills.
-- 💻 Enjoying the process of coding and turning ideas into reality.
-
-## 📫 **Contact Me**
-
-- **LinkedIn:** [Guilad Villarroel Rocha](https://www.linkedin.com/in/guilad-villarroel-rocha-00a622214/)
-- **Email:** [guilad1233@gmail.com](mailto:guilad1233@gmail.com)
-
 ## 📂 **Featured Projects**
 ### 1. [Inversiones Talentos](https://github.com/Guilad0/InversionesTalentos)
 - **Description:** A platform for investment in talents, designed for professionals seeking resources through investments.
@@ -38,10 +26,19 @@ Currently, I'm diving deeper into **Vue.js** to master frontend development and 
 ## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilad0&show_icons=true&theme=tokyonight)
-### Total Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilad0&show_icons=true&count_private=true&theme=tokyonight)
-### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilad0&layout=compact&theme=tokyonight)
+
+## 🌟 **How I Work**
+- 🎯 Focused on clean, functional design.
+- 🔧 Solving problems with scalable code.
+- 📖 Always learning new technologies to enhance my skills.
+- 💻 Enjoying the process of coding and turning ideas into reality.
+
+## 📫 **Contact Me**
+
+- **LinkedIn:** [Guilad Villarroel Rocha](https://www.linkedin.com/in/guilad-villarroel-rocha-00a622214/)
+- **Email:** [GuiladJVR](mailto:guilad1233@gmail.com)
 
 
 
