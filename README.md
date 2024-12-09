@@ -16,13 +16,6 @@ Currently, I'm diving deeper into **Vue.js** to master frontend development and 
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/VersionControl-Git-orange?logo=git&logoColor=white)
 
-## 📂 **Featured Projects**
-### 1. [Inversiones Talentos](https://github.com/Guilad0/InversionesTalentos)
-- **Description:** A platform for investment in talents, designed for professionals seeking resources through investments.
-  This project connects skilled professionals with potential investors, facilitating the growth of talent-based ventures.
-- **Technologies:** Node.js, Express, Vue.js, MySQL.
-- **Features:** User registration, investment management, resource tracking, and a responsive design for easy access.
-
 ## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilad0&show_icons=true&theme=tokyonight)
@@ -34,6 +27,13 @@ Currently, I'm diving deeper into **Vue.js** to master frontend development and 
 - 🔧 Solving problems with scalable code.
 - 📖 Always learning new technologies to enhance my skills.
 - 💻 Enjoying the process of coding and turning ideas into reality.
+
+## 📂 **Featured Projects**
+### 1. [Inversiones Talentos](https://github.com/Guilad0/InversionesTalentos)
+- **Description:** A platform for investment in talents, designed for professionals seeking resources through investments.
+  This project connects skilled professionals with potential investors, facilitating the growth of talent-based ventures.
+- **Technologies:** Node.js, Express, Vue.js, MySQL.
+- **Features:** User registration, investment management, resource tracking, and a responsive design for easy access.
 
 ## 📫 **Contact Me**
 
