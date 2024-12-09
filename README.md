@@ -35,6 +35,11 @@ Currently, I'm diving deeper into **Vue.js** to master frontend development and 
 - **Technologies:** Node.js, Express, Vue.js, MySQL.
 - **Features:** User registration, investment management, resource tracking, and a responsive design for easy access.
 
+## 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilad0&show_icons=true&theme=tokyonight)
+
+
 <!--
 **Guilad0/Guilad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
