@@ -39,31 +39,13 @@
 
 ## Core Stack
 
-### Backend
+| Backend | Frontend |
+|---|---|
+| Java<br>Node.js<br>TypeScript<br>NestJS | React<br>Next.js<br>Vue.js<br>Tailwind CSS<br>Component-based architecture |
 
-- Java
-- Node.js
-- TypeScript
-- Nest.js
-- REST APIs
-- GraphQL
-- Swagger/OpenAPI documentation
-- Prisma ORM
-
-### Frontend
-
-- React
-- Next.js
-- Vue.js
-- Tailwind CSS
-- Component-based architecture
-
-### DevOps and Deployment
-
-- Docker (containerization)
-- Railway
-- Netlify
-- Dockploy
+| APIs and Data | DevOps and Deployment |
+|---|---|
+| REST APIs<br>GraphQL<br>Swagger/OpenAPI documentation<br>Prisma ORM<br>PostgreSQL<br>MySQL | Docker (containerization)<br>Railway<br>Netlify<br>Dockploy |
 
 ## What I Focus On
 
@@ -74,40 +56,23 @@
 
 ## Technologies
 
-<table align="center">
-  <tr>
-    <td align="center"><img alt="Java" title="Java" width="42" src="https://cdn.simpleicons.org/openjdk" /><br/>Java</td>
-    <td align="center"><img alt="Node.js" title="Node.js" width="42" src="https://cdn.simpleicons.org/nodedotjs" /><br/>Node.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img alt="NestJS" title="NestJS" width="42" src="https://cdn.simpleicons.org/nestjs" /><br/>NestJS</td>
-    <td align="center"><img alt="TypeScript" title="TypeScript" width="42" src="https://cdn.simpleicons.org/typescript" /><br/>TypeScript</td>
-  </tr>
-  <tr>
-    <td align="center"><img alt="React" title="React" width="42" src="https://cdn.simpleicons.org/react" /><br/>React</td>
-    <td align="center"><img alt="Next.js" title="Next.js" width="42" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" /><br/>Next.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img alt="Vue.js" title="Vue.js" width="42" src="https://cdn.simpleicons.org/vuedotjs" /><br/>Vue.js</td>
-    <td align="center"><img alt="GraphQL" title="GraphQL" width="42" src="https://cdn.simpleicons.org/graphql" /><br/>GraphQL</td>
-  </tr>
-  <tr>
-    <td align="center"><img alt="Prisma ORM" title="Prisma ORM" width="42" src="https://cdn.simpleicons.org/prisma/2D3748" /><br/>Prisma ORM</td>
-    <td align="center"><img alt="Tailwind CSS" title="Tailwind CSS" width="42" src="https://cdn.simpleicons.org/tailwindcss" /><br/>Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td align="center"><img alt="Docker" title="Docker" width="42" src="https://cdn.simpleicons.org/docker" /><br/>Docker</td>
-    <td align="center"><img alt="Railway" title="Railway" width="42" src="https://cdn.simpleicons.org/railway" /><br/>Railway</td>
-  </tr>
-  <tr>
-    <td align="center"><img alt="Netlify" title="Netlify" width="42" src="https://cdn.simpleicons.org/netlify" /><br/>Netlify</td>
-    <td align="center"><img alt="PostgreSQL" title="PostgreSQL" width="42" src="https://cdn.simpleicons.org/postgresql" /><br/>PostgreSQL</td>
-  </tr>
-  <tr>
-    <td align="center"><img alt="MySQL" title="MySQL" width="42" src="https://cdn.simpleicons.org/mysql" /><br/>MySQL</td>
-    <td align="center"></td>
-  </tr>
-</table>
+<p align="center">
+  <img alt="Java" title="Java" width="42" src="https://cdn.simpleicons.org/openjdk" />
+  <img alt="Node.js" title="Node.js" width="42" src="https://cdn.simpleicons.org/nodedotjs" />
+  <img alt="NestJS" title="NestJS" width="42" src="https://cdn.simpleicons.org/nestjs" />
+  <img alt="TypeScript" title="TypeScript" width="42" src="https://cdn.simpleicons.org/typescript" />
+  <img alt="React" title="React" width="42" src="https://cdn.simpleicons.org/react" />
+  <img alt="Next.js" title="Next.js" width="42" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
+  <img alt="Vue.js" title="Vue.js" width="42" src="https://cdn.simpleicons.org/vuedotjs" />
+  <img alt="GraphQL" title="GraphQL" width="42" src="https://cdn.simpleicons.org/graphql" />
+  <img alt="Prisma ORM" title="Prisma ORM" width="42" src="https://cdn.simpleicons.org/prisma/2D3748" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" width="42" src="https://cdn.simpleicons.org/tailwindcss" />
+  <img alt="Docker" title="Docker" width="42" src="https://cdn.simpleicons.org/docker" />
+  <img alt="Railway" title="Railway" width="42" src="https://cdn.simpleicons.org/railway" />
+  <img alt="Netlify" title="Netlify" width="42" src="https://cdn.simpleicons.org/netlify" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="42" src="https://cdn.simpleicons.org/postgresql" />
+  <img alt="MySQL" title="MySQL" width="42" src="https://cdn.simpleicons.org/mysql" />
+</p>
 
 ## GitHub Stats
 
