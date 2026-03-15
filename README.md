@@ -39,13 +39,9 @@
 
 ## Core Stack
 
-**Backend:** Java, Node.js, TypeScript, NestJS  
----
-**Frontend:** React, Next.js, Vue.js, Tailwind CSS, Component-based architecture  
----
-**APIs & Data:** REST APIs, GraphQL, Swagger/OpenAPI, Prisma ORM, PostgreSQL, MySQL  
----
-**DevOps & Deployment:** Docker, Railway, Netlify, Dockploy
+| **Backend**<br>Java, Node.js, TypeScript, NestJS | **Frontend**<br>React, Next.js, Vue.js, Tailwind CSS, Component-based architecture |
+|---|---|
+| **APIs & Data**<br>REST APIs, GraphQL, Swagger/OpenAPI, Prisma ORM, PostgreSQL, MySQL | **DevOps & Deployment**<br>Docker, Railway, Netlify, Dockploy |
 
 ## What I Focus On
 
