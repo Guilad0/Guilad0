@@ -44,6 +44,7 @@
 - Java
 - Node.js
 - TypeScript
+- Nest.js
 - REST APIs
 - GraphQL
 - Swagger/OpenAPI documentation
