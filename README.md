@@ -1,58 +1,53 @@
-## Hi, I’m Guilad Villarroel 👋
-I'm a **Bolivian Developer** passionate about building efficient and modern web applications.
-Currently, I'm diving deeper into **Vue.js** to master frontend development and create dynamic user experiences. 🚀  
+## Guilad Villarroel
 
- - 🌱 I’m currently learning Vue.js
- - 📫 How to reach me: guilad1233@gmail.com
+Full‑stack developer focused on **Next.js**, **NestJS**, and clean, scalable systems.
 
+- Building modern web apps (UI + APIs)
+- Deploying with **Docker** and **Dockploy**
+- Working with **PostgreSQL**
 
+### Tech Stack
 
-## 🛠️ **Languages and Tools**
+**Frontend:** Next.js • React • TypeScript
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Frontend-Vue.js-brightgreen?logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Framework-Express-black?logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/VersionControl-Git-orange?logo=git&logoColor=white)
+**Backend:** NestJS • Node.js • REST • JWT
 
-## 📊 **GitHub Stats**
+**Database:** PostgreSQL
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilad0&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilad0&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilad0&layout=compact&theme=tokyonight)
+**DevOps:** Docker • Dockploy • GitHub Actions
 
-## 🌟 **How I Work**
-- 🎯 Focused on clean, functional design.
-- 🔧 Solving problems with scalable code.
-- 📖 Always learning new technologies to enhance my skills.
-- 💻 Enjoying the process of coding and turning ideas into reality.
+### Highlights
 
-## 📂 **Featured Projects**
-### 1. [Inversiones Talentos](https://github.com/Guilad0/InversionesTalentos)
-- **Description:** A platform for investment in talents, designed for professionals seeking resources through investments.
-  This project connects skilled professionals with potential investors, facilitating the growth of talent-based ventures.
-- **Technologies:** Node.js, Express, Vue.js, MySQL.
-- **Features:** User registration, investment management, resource tracking, and a responsive design for easy access.
+- Clean architecture and DX-first tooling
+- Performance, security, and maintainability
 
-## 📫 **Contact Me**
+### 3D / Presence
 
-- **LinkedIn:** [Guilad Villarroel Rocha](https://www.linkedin.com/in/guilad-villarroel-rocha-00a622214/)
-- **Email:** [GuiladJVR](mailto:guilad1233@gmail.com)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilad0&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilad0&theme=tokyonight" height="165" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilad0&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-<!--
-**Guilad0/Guilad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools
 
-Here are some ideas to get you started:
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Dockploy" src="https://img.shields.io/badge/Dockploy-111111?logo=docker&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+- LinkedIn: https://www.linkedin.com/in/guilad-villarroel-rocha-00a622214/
+- Email: guilad1233@gmail.com
