@@ -100,10 +100,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilad0&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
   <svg viewBox="0 0 1200 220" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Haikei style bottom background">
     <defs>
       <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
