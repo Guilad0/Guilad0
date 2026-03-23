@@ -16,7 +16,7 @@
 
 <p align="center">
   <strong>Full Stack Developer</strong><br/>
-  Building scalable web applications and polished user interfaces.
+  Building scalable web applications and polished user interfaces
 </p>
 
 <p align="center">
